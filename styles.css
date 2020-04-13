@@ -1,0 +1,59 @@
+    body {margin: 0; }
+    
+    #one {
+        height: 60px;
+        background-color: dimgrey;}
+    #gtd {
+        margin-left: 300px;
+        margin-top: 10px;
+        margin-bottom: 10px;} 
+    #foto {
+        margin-left: 300px;}
+    #smile {
+        margin-left: 65px;}
+    #face {
+        margin-left: 65px;}
+    #two {
+        height: 1000px;
+        background-image: url(img_hero.jpg);
+        background-repeat: no-repeat;
+        background-color: white;}
+    #hello {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center; 
+        font-size: 100px; 
+        color: dimgray; 
+        margin-top: 150px; 
+        margin-bottom: 110px; }
+    #how {margin-top: 50px;
+        margin-bottom: 10px;
+        text-align: center; 
+        font-size: 70px; 
+        color: hsl(61, 80%, 45%);}
+    #pic {margin-left: 280px;
+        margin-top: 0px;}
+    #three {
+        height: 10px;
+        background-color: rgba(223, 192, 20, 0.973);}
+    #for {
+        height: 300px;
+        background-color: dimgray;}
+    
+    table, th, td {
+        border: none;}
+    table {border: none;
+        margin-left: 300px;
+        margin-right: 0px;
+        margin-top: 0px;
+        }
+    th {height: 80px;
+        width: 220px;
+        text-align: left;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 20px; 
+        color: yellowgreen;}
+    td {height: 20px;
+        text-align: left;
+        vertical-align: top;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 15px; 
+        color: white;}
